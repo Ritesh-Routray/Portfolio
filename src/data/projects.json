@@ -1,0 +1,38 @@
+[
+    {
+      "title": "Snake-Turtle-Game",
+      "imageSrc": "projects/snake.jpg",
+      "description": "Its a remake of the famous snake game but in a new style",
+      "skills": ["python"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Ritesh-Routray/Python-Snake-Turtle-Game",
+      "id":"one"
+    },
+    {
+      "title": "RR-Says",
+      "imageSrc": "projects/simon-says-game.png",
+      "description": "",
+      "skills": ["React", "Express", "Node", "Sass"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Ritesh-Routray/RR-says-game",
+      "id":"two"
+    },
+    {
+      "title": "Guess it",
+      "imageSrc": "projects/guess.jpg",
+      "description": "You have to guess the right thing",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Ritesh-Routray/Python_guessing_game",
+      "id":"three"
+    },
+    {
+      "title": "Sketch it",
+      "imageSrc": "projects/draw.jpg",
+      "description": "Sketch anything from your keyboard",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Ritesh-Routray/Python_SKETCH_Game",
+      "id":"four"
+    }
+  ]
